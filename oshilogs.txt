@@ -12,50 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kisya =====
-[1]Kisya       |07:14:21 | 17-10-2026| login OK @vkisyaa | score=1360 rank=4741
-[1]Kisya       |07:14:21 | 17-10-2026| serverTime=2026-10-17T07:14:21.000Z local=2026-10-17T07:14:21.534Z
+[1]Kisya       |08:24:21 | 18-10-2026| login OK @vkisyaa | score=1390 rank=4792
+[1]Kisya       |08:24:21 | 18-10-2026| serverTime=2026-10-18T08:24:20.000Z local=2026-10-18T08:24:21.904Z
 --> [1]Kisya menjalankan: Claim Daily
-[1]Kisya       |07:14:22 | 17-10-2026| daily: OK +10 poin score=1370
---> [1]Kisya menjalankan: Auto All Tasks (2 pending)
-[1]Kisya       |07:14:23 | 17-10-2026| [1/2] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/vkisyaa/status/2111354551888328673
-[1]Kisya       |07:14:23 | 17-10-2026| delay 10s...
-[1]Kisya       |07:14:35 | 17-10-2026| [2/2] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/vkisyaa/status/2111354906503505315
-[1]Kisya       |07:14:35 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kisya       |07:14:36 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/vkisyaa/status/2111354658068337302
+[1]Kisya       |08:24:24 | 18-10-2026| daily: OK +10 poin score=1400
+--> [1]Kisya menjalankan: Auto All Tasks (5 pending)
+[1]Kisya       |08:24:26 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vkisyaa/status/2111734663213315955
+[1]Kisya       |08:24:26 | 18-10-2026| delay 10s...
+[1]Kisya       |08:24:40 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vkisyaa/status/2111734657229899703
+[1]Kisya       |08:24:40 | 18-10-2026| delay 10s...
+[1]Kisya       |08:24:53 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vkisyaa/status/2111734718107418883
+[1]Kisya       |08:24:53 | 18-10-2026| delay 10s...
+[1]Kisya       |08:25:05 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Kisya       |08:25:05 | 18-10-2026| delay 10s...
+[1]Kisya       |08:25:18 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vkisyaa/status/2111734773607264595
+[1]Kisya       |08:25:18 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kisya       |08:25:23 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/vkisyaa/status/2111735043143174156
 --> [1]Kisya menjalankan: Watch Anime
-[1]Kisya       |07:14:37 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Kisya       |07:14:37 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Kisya       |07:14:39 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kisya       |07:14:44 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Kisya       |07:14:46 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kisya       |07:14:51 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Kisya       |07:14:53 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kisya       |08:25:25 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Kisya       |08:25:25 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Kisya       |08:25:27 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kisya       |08:25:32 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Kisya       |08:25:34 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kisya       |08:25:39 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Kisya       |08:25:41 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kisya       |08:25:46 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Kisya       |08:25:48 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Kisya menjalankan: Read Article
-[1]Kisya       |07:14:54 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Kisya       |07:14:55 | 17-10-2026| mint eligibility: {"userId":"2010327040713707520","youtube":{"url":"https://www.youtube.com/@vkisya","status":"submitted","revision":"c7d4c54c-e692-4f6a-b642-82da57e9b2c8","submittedAt":1791683329,"reviewedAt":17916833
-[1]Kisya       |07:14:55 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Kisya       |08:25:51 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Kisya       |08:25:52 | 18-10-2026| mint eligibility: {"userId":"2010327040713707520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vkisya","status":"submitted","revision":"c7d4c54c-e692-4f6a-b642-82da57e9b2c8","
+[1]Kisya       |08:25:52 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Kisya menjalankan: Quiz Anime
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Kisya       |07:14:55 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Kisya       |08:25:53 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Kisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kisya       |07:14:57 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kisya       |07:14:57 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |07:14:57 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |07:14:57 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |08:25:57 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kisya       |08:25:58 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Kisya       |08:25:58 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kisya       |08:25:58 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kisya menjalankan: Claim Missions
-[1]Kisya       |07:14:57 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |07:14:57 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |07:14:57 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |08:25:59 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Kisya       |08:25:59 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kisya       |08:25:59 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kisya menjalankan: Check Eligibility
 
 --- eligibility [1]Kisya ---
-  @vkisyaa | score=1360 rank=4741
-  tasks    [####################] 79/81
+  @vkisyaa | score=1390 rank=4792
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -66,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kisya menjalankan: Read Manga
-[1]Kisya       |07:15:00 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Kisya       |08:26:05 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kisya menjalankan: Get Gift
-[1]Kisya       |07:15:01 | 17-10-2026| gift: 0/4 belum diterima
+[1]Kisya       |08:26:06 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Kisya menjalankan: Setup Profile
-[1]Kisya       |07:15:01 | 17-10-2026| profile: bio="https://x.com/vkisyaa" fav=mony rewardAt=1791714344
-[1]Kisya       |07:15:01 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Kisya       |08:26:08 | 18-10-2026| profile: bio="https://x.com/vkisyaa" fav=mony rewardAt=1791714344
+[1]Kisya       |08:26:08 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kisya menjalankan: Bind Wallet
-[1]Kisya       |07:15:02 | 17-10-2026| wallet: sudah terikat ENmHjyBcLM... (solana)
+[1]Kisya       |08:26:08 | 18-10-2026| wallet: sudah terikat ENmHjyBcLM... (solana)
 
 == RINGKASAN ==
-- Kisya: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kisya: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
