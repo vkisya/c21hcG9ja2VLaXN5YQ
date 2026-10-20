@@ -12,86 +12,101 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kisya =====
-[1]Kisya       |09:24:18 | 19-10-2026| login OK @vkisyaa | score=1450 rank=4744
-[1]Kisya       |09:24:18 | 19-10-2026| serverTime=2026-10-19T09:24:18.000Z local=2026-10-19T09:24:18.612Z
+[1]Kisya       |08:59:46 | 20-10-2026| login OK @vkisyaa | score=1560 rank=4478
+[1]Kisya       |08:59:46 | 20-10-2026| serverTime=2026-10-20T08:59:46.000Z local=2026-10-20T08:59:46.150Z
 --> [1]Kisya menjalankan: Claim Daily
-[1]Kisya       |09:24:20 | 19-10-2026| daily: OK +10 poin score=1460
---> [1]Kisya menjalankan: Auto All Tasks (10 pending)
-[1]Kisya       |09:24:22 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112066667496945
-[1]Kisya       |09:24:22 | 19-10-2026| delay 10s...
-[1]Kisya       |09:24:35 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112350856356617
-[1]Kisya       |09:24:35 | 19-10-2026| delay 10s...
-[1]Kisya       |09:24:48 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112249936494863
-[1]Kisya       |09:24:48 | 19-10-2026| delay 10s...
-[1]Kisya       |09:25:01 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112331901099732
-[1]Kisya       |09:25:01 | 19-10-2026| delay 10s...
-[1]Kisya       |09:25:14 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112227788268370
-[1]Kisya       |09:25:14 | 19-10-2026| delay 10s...
-[1]Kisya       |09:25:26 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112267928719224
-[1]Kisya       |09:25:26 | 19-10-2026| delay 10s...
-[1]Kisya       |09:25:39 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112439174840047
-[1]Kisya       |09:25:39 | 19-10-2026| delay 10s...
-[1]Kisya       |09:25:51 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112365148578461
-[1]Kisya       |09:25:51 | 19-10-2026| delay 10s...
-[1]Kisya       |09:26:04 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112513912272316
-[1]Kisya       |09:26:04 | 19-10-2026| delay 10s...
-[1]Kisya       |09:26:17 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/vkisyaa/status/2112112466014360335
-[1]Kisya       |09:26:17 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kisya       |09:26:19 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/vkisyaa/status/2112112788569349456
+[1]Kisya       |08:59:47 | 20-10-2026| daily: OK +10 poin score=1570
+--> [1]Kisya menjalankan: Auto All Tasks (6 pending)
+[1]Kisya       |08:59:49 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vkisyaa/status/2112468200767746144
+[1]Kisya       |08:59:49 | 20-10-2026| delay 10s...
+[1]Kisya       |09:00:01 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vkisyaa/status/2112468321995420927
+[1]Kisya       |09:00:01 | 20-10-2026| delay 10s...
+[1]Kisya       |09:00:28 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/vkisyaa/status/2112468330528767049
+[1]Kisya       |09:00:28 | 20-10-2026| delay 10s...
+[1]Kisya       |09:00:41 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vkisyaa/status/2112468742792965237
+[1]Kisya       |09:00:41 | 20-10-2026| delay 10s...
+[1]Kisya       |09:00:54 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vkisyaa/status/2112468531890899864
+[1]Kisya       |09:00:54 | 20-10-2026| delay 10s...
+[1]Kisya       |09:01:06 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/vkisyaa/status/2112468623956924899
+[1]Kisya       |09:01:06 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kisya       |09:01:08 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/vkisyaa/status/2112468804469836907
 --> [1]Kisya menjalankan: Watch Anime
-[1]Kisya       |09:26:20 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Kisya       |09:26:20 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Kisya       |09:26:23 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kisya       |09:26:28 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Kisya       |09:26:30 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kisya       |09:26:35 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Kisya       |09:26:37 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kisya       |09:26:42 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Kisya       |09:26:44 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kisya       |09:01:09 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Kisya       |09:01:09 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Kisya       |09:01:12 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Kisya       |09:01:18 | 20-10-2026| watch oshi-captains-hat: 6% (5.69/92.00s)
+[1]Kisya       |09:01:25 | 20-10-2026| watch oshi-captains-hat: 12% (11.43/92.00s)
+[1]Kisya       |09:01:32 | 20-10-2026| watch oshi-captains-hat: 19% (17.50/92.00s)
+[1]Kisya       |09:01:38 | 20-10-2026| watch oshi-captains-hat: 25% (23.29/92.00s)
+[1]Kisya       |09:01:44 | 20-10-2026| watch oshi-captains-hat: 31% (28.81/92.00s)
+[1]Kisya       |09:01:50 | 20-10-2026| watch oshi-captains-hat: 37% (34.35/92.00s)
+[1]Kisya       |09:01:58 | 20-10-2026| watch oshi-captains-hat: 43% (39.94/92.00s)
+[1]Kisya       |09:02:04 | 20-10-2026| watch oshi-captains-hat: 50% (46.12/92.00s)
+[1]Kisya       |09:02:10 | 20-10-2026| watch oshi-captains-hat: 56% (52.26/92.00s)
+[1]Kisya       |09:02:17 | 20-10-2026| watch oshi-captains-hat: 63% (58.02/92.00s)
+[1]Kisya       |09:02:23 | 20-10-2026| watch oshi-captains-hat: 69% (63.84/92.00s)
+[1]Kisya       |09:02:29 | 20-10-2026| watch oshi-captains-hat: 75% (69.38/92.00s)
+[1]Kisya       |09:02:35 | 20-10-2026| watch oshi-captains-hat: 81% (74.88/92.00s)
+[1]Kisya       |09:02:41 | 20-10-2026| watch oshi-captains-hat: 87% (80.41/92.00s)
+[1]Kisya       |09:02:47 | 20-10-2026| watch oshi-captains-hat: 93% (85.94/92.00s)
+[1]Kisya       |09:02:47 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.94/92.00s)
+[1]Kisya       |09:02:52 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Kisya       |09:02:54 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Kisya       |09:03:00 | 20-10-2026| watch oshi-rainbow-star: 6% (5.25/86.00s)
+[1]Kisya       |09:03:07 | 20-10-2026| watch oshi-rainbow-star: 12% (10.85/86.00s)
+[1]Kisya       |09:03:13 | 20-10-2026| watch oshi-rainbow-star: 19% (16.42/86.00s)
+[1]Kisya       |09:03:19 | 20-10-2026| watch oshi-rainbow-star: 25% (22.07/86.00s)
+[1]Kisya       |09:03:25 | 20-10-2026| watch oshi-rainbow-star: 32% (27.58/86.00s)
+[1]Kisya       |09:03:32 | 20-10-2026| watch oshi-rainbow-star: 38% (33.15/86.00s)
+[1]Kisya       |09:03:38 | 20-10-2026| watch oshi-rainbow-star: 45% (39.28/86.00s)
+[1]Kisya       |09:03:45 | 20-10-2026| watch oshi-rainbow-star: 52% (44.88/86.00s)
+[1]Kisya       |09:03:51 | 20-10-2026| watch oshi-rainbow-star: 59% (50.77/86.00s)
+[1]Kisya       |09:03:57 | 20-10-2026| watch oshi-rainbow-star: 65% (56.32/86.00s)
+[1]Kisya       |09:04:04 | 20-10-2026| watch oshi-rainbow-star: 72% (62.23/86.00s)
+[1]Kisya       |09:04:10 | 20-10-2026| watch oshi-rainbow-star: 78% (67.78/86.00s)
+[1]Kisya       |09:04:16 | 20-10-2026| watch oshi-rainbow-star: 85% (73.52/86.00s)
+[1]Kisya       |09:04:23 | 20-10-2026| watch oshi-rainbow-star: 91% (79.01/86.00s)
+[1]Kisya       |09:04:23 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (79.01/86.00s)
+[1]Kisya       |09:04:28 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Kisya       |09:04:30 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Kisya       |09:04:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.25/87.00s)
+[1]Kisya       |09:04:43 | 20-10-2026| watch oshi-rainbow-lighthouse: 13% (11.44/87.00s)
+[1]Kisya       |09:04:49 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (17.23/87.00s)
+[1]Kisya       |09:04:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (22.78/87.00s)
+[1]Kisya       |09:05:03 | 20-10-2026| watch oshi-rainbow-lighthouse: 33% (28.90/87.00s)
+[1]Kisya       |09:05:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 40% (35.01/87.00s)
+[1]Kisya       |09:05:15 | 20-10-2026| watch oshi-rainbow-lighthouse: heartbeat GAGAL http=503
+[1]Kisya       |09:05:20 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Kisya       |09:05:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: start GAGAL http=503
 --> [1]Kisya menjalankan: Read Article
-[1]Kisya       |09:26:46 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Kisya       |09:26:47 | 19-10-2026| mint eligibility: {"userId":"2010327040713707520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vkisya","status":"submitted","revision":"c7d4c54c-e692-4f6a-b642-82da57e9b2c8","
-[1]Kisya       |09:26:47 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Kisya       |09:05:28 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Quiz Anime
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Kisya       |09:26:48 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Kisya       |09:05:28 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kisya       |09:26:51 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kisya       |09:26:52 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |09:26:52 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |09:26:52 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |09:05:28 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kisya       |09:05:29 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Claim Missions
-[1]Kisya       |09:26:53 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |09:26:53 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |09:26:53 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |09:05:29 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Check Eligibility
 
 --- eligibility [1]Kisya ---
-  @vkisyaa | score=1450 rank=4744
-  tasks    [##################--] 74/84
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @vkisyaa | score=1560 rank=4478
+  tasks    [##################--] 73/79
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Kisya menjalankan: Read Manga
-[1]Kisya       |09:26:58 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Kisya       |09:05:30 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Get Gift
-[1]Kisya       |09:27:01 | 19-10-2026| gift: 0/4 belum diterima
+[1]Kisya       |09:05:30 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Setup Profile
-[1]Kisya       |09:27:02 | 19-10-2026| profile: bio="https://x.com/vkisyaa" fav=mony rewardAt=1791714344
-[1]Kisya       |09:27:02 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Kisya       |09:05:30 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Kisya menjalankan: Bind Wallet
-[1]Kisya       |09:27:03 | 19-10-2026| wallet: sudah terikat ENmHjyBcLM... (solana)
+[1]Kisya       |09:05:30 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Kisya: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kisya: daily=claimed | tasks OK 6/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
