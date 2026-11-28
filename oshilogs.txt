@@ -12,39 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kisya =====
-[1]Kisya       |11:54:47 | 27-11-2026| login OK @vkisyaa | score=3630 rank=2043
-[1]Kisya       |11:54:47 | 27-11-2026| serverTime=2026-11-27T11:54:47.000Z local=2026-11-27T11:54:47.934Z
+[1]Kisya       |11:29:22 | 28-11-2026| login OK @vkisyaa | score=3670 rank=2026
+[1]Kisya       |11:29:22 | 28-11-2026| serverTime=2026-11-28T11:29:22.000Z local=2026-11-28T11:29:22.773Z
 --> [1]Kisya menjalankan: Claim Daily
-[1]Kisya       |11:54:49 | 27-11-2026| daily: OK +10 poin score=3640
---> [1]Kisya menjalankan: Auto All Tasks (3 pending)
-[1]Kisya       |11:54:51 | 27-11-2026| [1/3] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/vkisyaa/status/2126282984658755582
-[1]Kisya       |11:54:51 | 27-11-2026| delay 10s...
-[1]Kisya       |11:55:03 | 27-11-2026| [2/3] 4cdfafa2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/vkisyaa/status/2126283214743205672
-[1]Kisya       |11:55:03 | 27-11-2026| delay 10s...
-[1]Kisya       |11:55:15 | 27-11-2026| [3/3] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212627842799310 | proof=https://x.com/vkisyaa/status/2126283249751594923
-[1]Kisya       |11:55:15 | 27-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kisya       |11:55:16 | 27-11-2026| [1/1] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3f5ce0b6-e578-4221-a695-7bfff1317585","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126278427993100 | proof=https://x.com/vkisyaa/status/2126283274185546580
+[1]Kisya       |11:29:24 | 28-11-2026| daily: OK +10 poin score=3680
+--> [1]Kisya menjalankan: Auto All Tasks (4 pending)
+[1]Kisya       |11:29:26 | 28-11-2026| [1/4] 70909bab (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"70909bab-996b-42ee-825a-f40447539566","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212662549250170 | proof=https://x.com/vkisyaa/status/2126639325045387542
+[1]Kisya       |11:29:26 | 28-11-2026| delay 10s...
+[1]Kisya       |11:29:38 | 28-11-2026| [2/4] 1d1eb12c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"70909bab-996b-42ee-825a-f40447539566","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212662549250170 | proof=https://x.com/vkisyaa/status/2126639387549525061
+[1]Kisya       |11:29:38 | 28-11-2026| delay 10s...
+[1]Kisya       |11:29:50 | 28-11-2026| [3/4] a0bc0e58 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"70909bab-996b-42ee-825a-f40447539566","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212662549250170 | proof=https://x.com/vkisyaa/status/2126639300373573975
+[1]Kisya       |11:29:50 | 28-11-2026| delay 10s...
+[1]Kisya       |11:30:02 | 28-11-2026| [4/4] 3f5fb2d5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"70909bab-996b-42ee-825a-f40447539566","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212662549250170 | proof=https://x.com/vkisyaa/status/2126639330187658121
+[1]Kisya       |11:30:02 | 28-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kisya       |11:30:04 | 28-11-2026| [1/1] 70909bab (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"70909bab-996b-42ee-825a-f40447539566","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126625492501709 | proof=https://x.com/vkisyaa/status/2126639128765449494
 --> [1]Kisya menjalankan: Watch Anime
-[1]Kisya       |11:55:17 | 27-11-2026| watch: semua video sudah completed
+[1]Kisya       |11:30:04 | 28-11-2026| watch: semua video sudah completed
 --> [1]Kisya menjalankan: Read Article
-[1]Kisya       |11:55:17 | 27-11-2026| news: 35/35 artikel selesai dibaca
-[1]Kisya       |11:55:18 | 27-11-2026| mint eligibility: {"userId":"2010327040713707520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vkisya","status":"submitted","revision":"c7d4c54c-e692-4f6a-b642-82da57e9b2c8","
-[1]Kisya       |11:55:18 | 27-11-2026| news: semua artikel sudah dibaca
+[1]Kisya       |11:30:06 | 28-11-2026| news: 35/35 artikel selesai dibaca
+[1]Kisya       |11:30:06 | 28-11-2026| mint eligibility: {"userId":"2010327040713707520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vkisya","status":"submitted","revision":"c7d4c54c-e692-4f6a-b642-82da57e9b2c8","
+[1]Kisya       |11:30:06 | 28-11-2026| news: semua artikel sudah dibaca
 --> [1]Kisya menjalankan: Quiz Anime
 --> [1]Kisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kisya       |11:55:19 | 27-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kisya       |11:55:19 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |11:55:19 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |11:55:19 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kisya       |11:30:08 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kisya menjalankan: Claim Missions
-[1]Kisya       |11:55:19 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Kisya       |11:55:19 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kisya       |11:55:19 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kisya       |11:30:08 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kisya menjalankan: Check Eligibility
 
 --- eligibility [1]Kisya ---
-  @vkisyaa | score=3630 rank=2043
-  tasks    [#############-------] 5/8
+  @vkisyaa | score=3670 rank=2026
+  tasks    [#############-------] 7/11
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kisya menjalankan: Read Manga
-[1]Kisya       |11:55:22 | 27-11-2026| manga: 0/13 chapter belum completed
+[1]Kisya       |11:30:11 | 28-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kisya menjalankan: Get Gift
-[1]Kisya       |11:55:24 | 27-11-2026| gift: 3/12 belum diterima
-[1]Kisya       |11:55:24 | 27-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kisya       |11:55:27 | 27-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kisya       |11:55:29 | 27-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kisya       |11:30:13 | 28-11-2026| gift: 3/12 belum diterima
+[1]Kisya       |11:30:13 | 28-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kisya       |11:30:16 | 28-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kisya       |11:30:18 | 28-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kisya menjalankan: Setup Profile
-[1]Kisya       |11:55:32 | 27-11-2026| profile: bio="https://x.com/vkisyaa" fav=mony rewardAt=1791714344
-[1]Kisya       |11:55:32 | 27-11-2026| profile: bonus sudah diklaim, skip
+[1]Kisya       |11:30:21 | 28-11-2026| profile: bio="https://x.com/vkisyaa" fav=mony rewardAt=1791714344
+[1]Kisya       |11:30:21 | 28-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kisya menjalankan: Bind Wallet
-[1]Kisya       |11:55:32 | 27-11-2026| wallet: sudah terikat ENmHjyBcLM... (solana)
+[1]Kisya       |11:30:21 | 28-11-2026| wallet: sudah terikat ENmHjyBcLM... (solana)
 
 == RINGKASAN ==
-- Kisya: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Kisya: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
